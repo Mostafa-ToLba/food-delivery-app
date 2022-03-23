@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">139071137284-5qtijcft9qnshm1p9dafntsgom7je5cd.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">139071137284</string>
+    <string name="google_api_key" translatable="false">AIzaSyA3PUnOzPvZZjz9ReXJ5ct8-d46DUec5u4</string>
+    <string name="google_app_id" translatable="false">1:139071137284:android:178f975e81225fcd96f751</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA3PUnOzPvZZjz9ReXJ5ct8-d46DUec5u4</string>
+    <string name="google_storage_bucket" translatable="false">easy-eat-5dd80.appspot.com</string>
+    <string name="project_id" translatable="false">easy-eat-5dd80</string>
+</resources>
